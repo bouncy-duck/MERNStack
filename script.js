@@ -19,7 +19,7 @@ yellow.addEventListener('click',()=>{
     yb=!yb;
 });
 green.addEventListener('click',()=>{
-    green.style.backgroundColor=ggit b?"white":"green";
+    green.style.backgroundColor=gb?"white":"green";
     gb=!gb;
 });
 const btn=document.getElementById("greet");
